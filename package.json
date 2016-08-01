@@ -1,6 +1,6 @@
 {
   "name": "breakpoint-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adding a $(window).on('breakpointChange') event useable with bootstrap 3 layouts",
   "main": "breakpointChange.js",
   "repository": {

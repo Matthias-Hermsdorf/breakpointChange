@@ -15,15 +15,15 @@ It requires jQuery and was developed for boostrap templates, when some modules a
     });
 ```
 
-You can change the breakpoints with breakpointChange.breakpoints(newBreakointList) at runtime
+You can change the breakpoints with breakpointChange.breakpoints at runtime
 The breakpoints must be sorted ascending. Following breakpoints are default:
 
 ```javascript
-breakpoints: {
+breakpointChange.breakpoints = {
             "sm": 0,
             "md": 1011,
             "lg": 1199
-        },
+        }
 ```
 
 The breapointChange event contains the keys for newBreakpoint, oldBreakpoint, the originalEvent which triggert the Change 
