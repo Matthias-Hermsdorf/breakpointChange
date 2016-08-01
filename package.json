@@ -1,0 +1,23 @@
+{
+  "name": "breakpoint-change",
+  "version": "1.0.0",
+  "description": "adding a $(window).on('breakpointChange') event useable with bootstrap 3 layouts",
+  "main": "breakpointChange.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matthias-Hermsdorf/breakpoint-change"
+  },
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "breakpoint",
+    "event"
+  ],
+  "author": [
+    "Matthias Hermsdorf <matthiashermsdorf@gmx.de>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^2"
+  }
+}
